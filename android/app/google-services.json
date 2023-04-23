@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58751355080",
+    "project_id": "stockx-58d8f",
+    "storage_bucket": "stockx-58d8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58751355080:android:b72923ac171ca2be4a3dfd",
+        "android_client_info": {
+          "package_name": "com.example.stockx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58751355080-tuoj5laljvnao60ktkdvc8s14sij03os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stockx",
+            "certificate_hash": "114b29645d59308533d14a6f3e0cb92299b5d92f"
+          }
+        },
+        {
+          "client_id": "58751355080-rtii764geddcdfud464vd4m2c0c0e5s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_sWGvGJR2LTV9m85TODIPfjTNlUy7fNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58751355080-rtii764geddcdfud464vd4m2c0c0e5s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
